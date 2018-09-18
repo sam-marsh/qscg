@@ -1,5 +1,5 @@
 # qscg
-Decomposes sparse Hamiltonians into a sum of O(d^2) 1-sparse Hamiltonians, where *d* is the bound on the number of non-zero elements per row, for use in simulation.
+Decomposes sparse Hamiltonians into a sum of *O(d^2)* 1-sparse Hamiltonians, where *d* is the bound on the number of non-zero elements per row, for use in simulation.
 
 A trivial example:
 
